@@ -4,24 +4,24 @@
     "src": "assets/logo.png"
   },
   "main.js": {
-    "file": "assets/main.29a2455c.js",
+    "file": "assets/main.6b53609b.js",
     "src": "main.js",
     "isEntry": true,
     "imports": [
-      "_vendor.0ab017d8.js"
+      "_vendor.77cf7873.js"
     ],
     "css": [
-      "assets/main.4224cc60.css"
+      "assets/main.f7849ef7.css"
     ],
     "assets": [
       "assets/logo.03d6d6da.png"
     ]
   },
-  "_vendor.0ab017d8.js": {
-    "file": "assets/vendor.0ab017d8.js"
+  "_vendor.77cf7873.js": {
+    "file": "assets/vendor.77cf7873.js"
   },
   "main.css": {
-    "file": "assets/main.4224cc60.css",
+    "file": "assets/main.f7849ef7.css",
     "src": "main.css"
   }
 }
